@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6814",
+  "folder": "YouTube__watch_20260523104610_6d2c97",
+  "base_name": "Nightcore_Top_50_Songs_of_TheFatRat_2025_-_Best_Of_TheFatRat_-_TheFatR_ctdkm6pTRGY_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads1/releases/tag/co-releases-v1-6814",
+  "files": [
+    {
+      "name": "Nightcore_Top_50_Songs_of_TheFatRat_2025_-_Best_Of_TheFatRat_-_TheFatR_ctdkm6pTRGY_360p.mp4",
+      "url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads1/releases/download/co-releases-v1-6814/Nightcore_Top_50_Songs_of_TheFatRat_2025_-_Best_Of_TheFatRat_-_TheFatR_ctdkm6pTRGY_360p.mp4",
+      "api_url": "https://api.github.com/repos/shahrokhzhean5-ops/Cloud-Downloads1/releases/assets/427821582",
+      "id": 427821582,
+      "size": 988489942,
+      "download_count": 0
+    }
+  ]
+}
