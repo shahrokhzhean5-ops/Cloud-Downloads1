@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5403",
+  "folder": "YouTube__watch_20260526043727_6177e7",
+  "base_name": "the_opposites_song_n3-NuH6R-qo_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads1/releases/tag/co-releases-v1-5403",
+  "files": [
+    {
+      "name": "the_opposites_song_n3-NuH6R-qo_1080p.mp4",
+      "url": "https://github.com/shahrokhzhean5-ops/Cloud-Downloads1/releases/download/co-releases-v1-5403/the_opposites_song_n3-NuH6R-qo_1080p.mp4",
+      "api_url": "https://api.github.com/repos/shahrokhzhean5-ops/Cloud-Downloads1/releases/assets/429905953",
+      "id": 429905953,
+      "size": 12772219,
+      "download_count": 0
+    }
+  ]
+}
